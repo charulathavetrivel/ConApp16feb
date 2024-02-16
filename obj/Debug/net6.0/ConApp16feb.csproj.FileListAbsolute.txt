@@ -1,0 +1,15 @@
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.exe
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.deps.json
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.runtimeconfig.json
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.dll
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\bin\Debug\net6.0\ConApp16feb.pdb
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.AssemblyInfoInputs.cache
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.AssemblyInfo.cs
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.csproj.CoreCompileInputs.cache
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.sourcelink.json
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.dll
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\refint\ConApp16feb.dll
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.pdb
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ConApp16feb.genruntimeconfig.cache
+C:\git\project1\15febDay3\ConApp16feb\ConApp16feb\obj\Debug\net6.0\ref\ConApp16feb.dll
